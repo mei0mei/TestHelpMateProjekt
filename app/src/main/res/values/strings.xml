@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="name_hint">Imię i nazwisko lub nazwa firmy</string>
+    <string name="number_hint">Numer telefonu</string>
+    <string name="adress_hint">Adres</string>
+    <string name="checkbox_text">Chcę świadczyć usługi</string>
+    <string name="hydraulika">Hydraulika:</string>
+    <string name="elektryka">Elektryka:</string>
+    <string name="pomocDomowa">Pomoc domowa:</string>
+    <string name="ogrodnictwo">Ogrodnictwo:</string>
+    <string name="urzadzeniaElektroniczne">Urządzenia elektroniczne:</string>
+    <string name="remonty">Remonty:</string>
+    <string name="category_text">Wybierz kategorie usług, którymi się zajmujesz:</string>
+    <string name="location_text">Wybierz obszar świadczenia usług:</string>
+
+</resources>
